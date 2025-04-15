@@ -1,3 +1,12 @@
+script de ejecución:
+
+    los paths son absolutos.
+    "path de python con python.exe" "path de scrypt"
+
+    ejemplo:
+
+    “C:\Program Files\Python38\python.exe” (Ruta absoluta der script) 
+
 1-El archivo "Seals.py" que se encuentra en la carpeta "ActualSeals" se debera ejecutar cada 2 min;
     En la venta se tendra en el siguiente oren la informacion:
 
