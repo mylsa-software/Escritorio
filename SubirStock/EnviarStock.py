@@ -44,7 +44,7 @@ with open(txt,"r", encoding="latin-1") as file:
 with open(filestock,"r", encoding="latin-1") as file:
     Stockpilot = json.load(file)
 
-with open("Response.txt","w",encoding="utf-8") as file:
+with open(os.path.join(path,"Response.txt"),"w",encoding="utf-8") as file:
 
     if Cat and Stockpilot:
 
@@ -114,7 +114,7 @@ with open("Response.txt","w",encoding="utf-8") as file:
 
                 response = requests.post(url,json=JsonSend)
 
-                with open("Response.txt","w",encoding="utf-8") as file:
+                with open(os.path.join(path,"Response.txt"),"w",encoding="utf-8") as file:
                 
                     if response.status_code == 200:
                         file.write(str(response.text))
