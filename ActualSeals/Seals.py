@@ -28,7 +28,7 @@ if response.status_code == 200:
         if not os.path.exists(path+"/"+str(info['ReferenciaPilot'])+".txt"):
             with open(path+"/"+str(info['ReferenciaPilot'])+".txt","w") as file:
                 for key,info in info.items():
-                    file.write(str(info)+"\t")
+                    file.write(key+" => " + str(info)+"\n")
                     
 else:
     print('error de conexion')
