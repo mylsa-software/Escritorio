@@ -1,0 +1,30 @@
+1-El archivo "Seals.py" que se encuentra en la carpeta "ActualSeals" se debera ejecutar cada 2 min;
+    En la venta se tendra en el siguiente oren la informacion:
+
+        *Id => 9642B058-7F13-4A00-B289-803491C773FC
+        *Vendedor => AP
+        *Cantidad => 675000
+        *ReferenciaPilot => 20250414124832
+        *NombreCliente => DANIEL-QUINTANA-MORA
+        *RFC => QUMD8811259K1
+        *Celular => 5591920596
+        *Telefono => 5591920596
+        *Mail => DANIELMORA@HOTMAIL.COM
+        *Direccion => AV 561 144 07969 CIUDAD DE MEXICO Mexico México
+        *CFDI => 612
+        *Tipo => Persona Fisica con actividad empresarial
+
+2-El archivo "Stock.py" que se encunetra en la carpeta de "DataUpPilot" se debera ejecuta cada vez que termine de ejcutarse "EnviarStock.py"
+
+3-El archivo "EnviarStock" que se encuentra en la carpeta "SubirStock" este script tomara como datos el archivo de "vehiculo.txt" y las respuesta las dejara en un archivo llamado "Response.txt"
+    
+    Tipo de respuestas que pueden surgir:
+        *Exito
+        *Error Pilot
+        *Vehiculo ya subido a pilot con el economico => *
+    
+    archivos que se requieren para ejecutar este comando:
+        Cat.json-> es creado cuando se ejecuta "Cat.py"
+        StockPilot.json->es creado cuando se ejcuta "Stock.py"
+
+4-El Archivo "Cat.py" se debe de ejecutar cada vez que se actualicen los pdf o se agrege otro nuevo los pdf tendran el nombre del año
