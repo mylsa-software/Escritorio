@@ -1,0 +1,566 @@
+[
+    {
+        "economico": "2025H50016",
+        "ID_vehiculos": "01E92341-89AA-444E-A384-529B4FD859F4"
+    },
+    {
+        "economico": "2025TR0063",
+        "ID_vehiculos": "0396B3DB-F8CC-462D-AC5D-F41A363602AA"
+    },
+    {
+        "economico": "2025H50015",
+        "ID_vehiculos": "03BD96DE-CF8B-4092-8B89-8BBBBAD6EDBB"
+    },
+    {
+        "economico": "2024L10006",
+        "ID_vehiculos": "0595DBA4-D51D-4093-A925-B75F7760A92B"
+    },
+    {
+        "economico": "2025RS0008",
+        "ID_vehiculos": "05D9A222-16EF-4B7F-AE31-A182236DABF5"
+    },
+    {
+        "economico": "2024CV0012",
+        "ID_vehiculos": "062B3826-7B40-4047-8DBD-8B864569359D"
+    },
+    {
+        "economico": "2025H50027",
+        "ID_vehiculos": "08B1F500-70A2-405E-9E97-96DD51E0D5A1"
+    },
+    {
+        "economico": "2025M80001",
+        "ID_vehiculos": "0B05E13A-65BF-494D-84F7-0FF6C23FEFCB"
+    },
+    {
+        "economico": "2025MD0002",
+        "ID_vehiculos": "0C7A61AB-825B-4CA2-A406-466FDFA97544"
+    },
+    {
+        "economico": "2025TR0097",
+        "ID_vehiculos": "0DB62C91-95B6-4C72-83E1-BA8A9F9C2B4E"
+    },
+    {
+        "economico": "2025TR0061",
+        "ID_vehiculos": "0DCDAD46-9F8D-48C7-A12F-BE9D1C224751"
+    },
+    {
+        "economico": "2025E50016",
+        "ID_vehiculos": "132B6614-C27C-4F35-809E-1A59AAA2BAF6"
+    },
+    {
+        "economico": "2025H50003",
+        "ID_vehiculos": "168CED5A-D209-4D5A-8BC4-636F3DFE9D71"
+    },
+    {
+        "economico": "2025H50011",
+        "ID_vehiculos": "17878A5F-1E99-453F-A8A8-7A1E05878580"
+    },
+    {
+        "economico": "2025H50020",
+        "ID_vehiculos": "179C29A2-6A05-423E-9A3E-BF11B3CC3DCE"
+    },
+    {
+        "economico": "2025B10011",
+        "ID_vehiculos": "1869E59B-F480-4212-84CB-1D3882B81646"
+    },
+    {
+        "economico": "2025P10008",
+        "ID_vehiculos": "196E48C9-EC82-4244-B522-4DA9B9270293"
+    },
+    {
+        "economico": "2025B10006",
+        "ID_vehiculos": "1A5C4487-BAAC-4F20-BA6C-BE93EF1A0068"
+    },
+    {
+        "economico": "2025TR0052",
+        "ID_vehiculos": "1B819EFC-E690-495D-BCAB-4ED215D82C78"
+    },
+    {
+        "economico": "2025B10007",
+        "ID_vehiculos": "1D0DBFC4-097D-4394-B924-EBFED5050744"
+    },
+    {
+        "economico": "2025H50013",
+        "ID_vehiculos": "22239534-A34F-42F1-8B2E-67E611F98FC9"
+    },
+    {
+        "economico": "2025TR0085",
+        "ID_vehiculos": "226DEE52-07DA-484C-84D9-5293E83952A3"
+    },
+    {
+        "economico": "2025B10014",
+        "ID_vehiculos": "22B287D0-FEAF-4DC9-9C1C-29BD61159DFA"
+    },
+    {
+        "economico": "2024CV0011",
+        "ID_vehiculos": "231777A5-9F0F-470D-9DD3-7AD81051987E"
+    },
+    {
+        "economico": "2024K20001",
+        "ID_vehiculos": "244E8E35-1F38-496D-B6A6-817BD2A6ADB5"
+    },
+    {
+        "economico": "2024K30021",
+        "ID_vehiculos": "2A036436-B6FD-45B5-A105-D081D41C4F90"
+    },
+    {
+        "economico": "2025P10005",
+        "ID_vehiculos": "2A07242B-7D02-4C1C-90A5-43DC170674AD"
+    },
+    {
+        "economico": "2025TR0086",
+        "ID_vehiculos": "2A2BE63A-EC93-429F-8740-74E79608883C"
+    },
+    {
+        "economico": "2024CV0014",
+        "ID_vehiculos": "2B0B9926-9BEA-438A-B75F-1000A9F0D238"
+    },
+    {
+        "economico": "2025TR0028",
+        "ID_vehiculos": "2D074A89-6AEA-46EC-889E-044D53391D21"
+    },
+    {
+        "economico": "2025E50015",
+        "ID_vehiculos": "2E9CFC49-84FD-48BB-8B2F-1E608912F290"
+    },
+    {
+        "economico": "2025TR0090",
+        "ID_vehiculos": "2FB23E33-9E36-430D-9479-B021EE0AAFB3"
+    },
+    {
+        "economico": "2025E50011",
+        "ID_vehiculos": "2FE3FD36-C1A4-4A06-A0B5-2C6B4C2B280E"
+    },
+    {
+        "economico": "2025RS0005",
+        "ID_vehiculos": "3409CAC5-DCC7-49B6-AE3C-3BFCF91D96FE"
+    },
+    {
+        "economico": "2025K30001",
+        "ID_vehiculos": "3926E1F5-62AD-4FA7-ABF4-B0518FA322FF"
+    },
+    {
+        "economico": "2025RS0003",
+        "ID_vehiculos": "398D6E63-3249-4F02-BEFC-A4F4BCDF628F"
+    },
+    {
+        "economico": "2025TR0048",
+        "ID_vehiculos": "3A5F85A8-6D28-4540-A2A3-7E3BE88C7A4B"
+    },
+    {
+        "economico": "2025E20001",
+        "ID_vehiculos": "3DB7B186-8369-4811-B4F5-57D31334D250"
+    },
+    {
+        "economico": "2025E50014",
+        "ID_vehiculos": "3EE655F1-5EF6-49E2-9A19-BFFA90C54E33"
+    },
+    {
+        "economico": "2025M20002",
+        "ID_vehiculos": "3F210C5C-1FAD-4D07-AC74-9BA1BB718836"
+    },
+    {
+        "economico": "2025TR0076",
+        "ID_vehiculos": "416272B9-6575-4691-850E-B9EA893AB6AA"
+    },
+    {
+        "economico": "2024L10011",
+        "ID_vehiculos": "43F1CF86-9DA8-400F-A79E-F0FBC23D628E"
+    },
+    {
+        "economico": "2024RT0017",
+        "ID_vehiculos": "47B4F921-90CF-4D47-AC47-360F9D53BACF"
+    },
+    {
+        "economico": "2025TR0045",
+        "ID_vehiculos": "480C4D30-7F46-4664-B249-DFFBB08419C7"
+    },
+    {
+        "economico": "2025P20006",
+        "ID_vehiculos": "4CF1A3C6-DE2A-408C-BC2A-EE4DCC0A5FDB"
+    },
+    {
+        "economico": "2025H50017",
+        "ID_vehiculos": "4DC4C419-CB51-4B73-A2C4-F49D6BBA0B3F"
+    },
+    {
+        "economico": "2024CV0009",
+        "ID_vehiculos": "4FE2F48B-43A1-4458-BA17-7E43A2C997F3"
+    },
+    {
+        "economico": "2025TR0025",
+        "ID_vehiculos": "5013AA38-1B89-4848-8913-7C4FB2C64757"
+    },
+    {
+        "economico": "2025TR0083",
+        "ID_vehiculos": "510A0841-4E8F-4797-B2A7-4EF9BB8B8202"
+    },
+    {
+        "economico": "2025H50021",
+        "ID_vehiculos": "519E735B-516C-4A43-BA8F-7CF3F3C20C41"
+    },
+    {
+        "economico": "2025TR0088",
+        "ID_vehiculos": "524F893A-0A80-4029-9022-1C83E34769D7"
+    },
+    {
+        "economico": "2025RS0009",
+        "ID_vehiculos": "539A7F34-291C-4B99-84CE-EB42ABB28F2A"
+    },
+    {
+        "economico": "2024K20004",
+        "ID_vehiculos": "56172F3D-5820-49DB-898E-870283DFB36C"
+    },
+    {
+        "economico": "2025B10010",
+        "ID_vehiculos": "56992124-DCCA-42F8-863D-8509E705FF98"
+    },
+    {
+        "economico": "2024CV0016",
+        "ID_vehiculos": "57021CB8-4469-4CBB-8DF0-D14AE20C10C0"
+    },
+    {
+        "economico": "2025B10016",
+        "ID_vehiculos": "5758015B-FC32-4F6C-93C9-BA16F9EAD2DB"
+    },
+    {
+        "economico": "2025M80004",
+        "ID_vehiculos": "5C3690D3-DC23-450F-B475-26F5D1A63C97"
+    },
+    {
+        "economico": "2024E50003",
+        "ID_vehiculos": "5F37B93D-21FF-42FF-AD28-811D1AA43B17"
+    },
+    {
+        "economico": "2025H50023",
+        "ID_vehiculos": "60B5063E-33A4-4614-A2D8-EAAA7B9B2559"
+    },
+    {
+        "economico": "2025B10005",
+        "ID_vehiculos": "620EFC3B-8FAD-457E-B009-DF46847CE5DA"
+    },
+    {
+        "economico": "2025P20007",
+        "ID_vehiculos": "6232C3F8-307A-4026-81D2-B817ADCF11C3"
+    },
+    {
+        "economico": "2025TR0092",
+        "ID_vehiculos": "62331CC9-FEEB-46B3-A859-6311817BB426"
+    },
+    {
+        "economico": "2025TR0068",
+        "ID_vehiculos": "668C6EA9-4CF5-4422-A788-3D8A3A879076"
+    },
+    {
+        "economico": "2025K30002",
+        "ID_vehiculos": "66D641E2-026A-4D87-88BE-4E3713C5D39D"
+    },
+    {
+        "economico": "2025H50022",
+        "ID_vehiculos": "67619B7B-AB65-476E-9C6A-A811888F6BE2"
+    },
+    {
+        "economico": "2025H50024",
+        "ID_vehiculos": "6B153C5C-C619-4FDF-95CC-9630B20DC361"
+    },
+    {
+        "economico": "2025MH0001",
+        "ID_vehiculos": "6BCD2F95-30BB-4CEA-9D7F-1A9CC02AF28E"
+    },
+    {
+        "economico": "2025TR0031",
+        "ID_vehiculos": "6CC190C8-1CD0-4136-9912-F5D348EFC4AC"
+    },
+    {
+        "economico": "2025H50014",
+        "ID_vehiculos": "6CEF41A0-3115-484E-802D-D5ED3C83AC79"
+    },
+    {
+        "economico": "2024RS0038",
+        "ID_vehiculos": "77146F27-8E74-4A75-8C0B-03DF0C42F288"
+    },
+    {
+        "economico": "2024K20003",
+        "ID_vehiculos": "77853478-AB1A-4ADC-8DE2-ED67EB913B11"
+    },
+    {
+        "economico": "2025M80005",
+        "ID_vehiculos": "78F54684-D334-49D3-A97E-0E2F23D10755"
+    },
+    {
+        "economico": "2025L10001",
+        "ID_vehiculos": "7BDD952B-17D8-47F1-B654-40C46194C71B"
+    },
+    {
+        "economico": "2024K20005",
+        "ID_vehiculos": "7DE87738-2BE4-4027-9915-04E79EF37ACA"
+    },
+    {
+        "economico": "2024E50002",
+        "ID_vehiculos": "7E7458D2-2A9E-4A7D-BFF3-559BEF981252"
+    },
+    {
+        "economico": "2025MD0003",
+        "ID_vehiculos": "800F3EF3-E85C-4800-A727-BB4C27569F26"
+    },
+    {
+        "economico": "2024V10004",
+        "ID_vehiculos": "84E51131-061F-449F-8329-05BF1785BC9D"
+    },
+    {
+        "economico": "2025B10015",
+        "ID_vehiculos": "8748169A-EC61-4515-A2C8-537F9EE0BF27"
+    },
+    {
+        "economico": "2024RT0016",
+        "ID_vehiculos": "88107571-FF54-41A7-A716-EADA4E3CE436"
+    },
+    {
+        "economico": "2024CV0013",
+        "ID_vehiculos": "892BDC1B-DDF9-4413-A8B2-3806B5E33B3A"
+    },
+    {
+        "economico": "2024CV0010",
+        "ID_vehiculos": "8AAB8626-BADA-4A89-8135-23B632D76F7A"
+    },
+    {
+        "economico": "2025P10009",
+        "ID_vehiculos": "8B28E03C-B8CB-4276-88FC-E1FD342BF054"
+    },
+    {
+        "economico": "2025TR0079",
+        "ID_vehiculos": "8C2D9ABC-70E8-4816-89B3-8B5E5277393D"
+    },
+    {
+        "economico": "2025P10010",
+        "ID_vehiculos": "8E1D8DFD-36F0-43A4-8C03-F59CF3CD574A"
+    },
+    {
+        "economico": "2025P20004",
+        "ID_vehiculos": "8E8A3448-869F-4459-9451-DD4C9A7B1BA5"
+    },
+    {
+        "economico": "2025H50008",
+        "ID_vehiculos": "947FBA48-68E1-4D84-944F-A44C5E2D63A3"
+    },
+    {
+        "economico": "2024TR0036",
+        "ID_vehiculos": "94C20532-9E42-4E3F-BF2D-523E38B1ECD9"
+    },
+    {
+        "economico": "2025B10013",
+        "ID_vehiculos": "97488210-EB19-469C-B814-6109733454F4"
+    },
+    {
+        "economico": "2025RS0007",
+        "ID_vehiculos": "97E37FC8-4B09-4E61-A5FD-B1DE36481282"
+    },
+    {
+        "economico": "2025L10003",
+        "ID_vehiculos": "9A0D3B5C-40D2-477E-939B-F1ECA9DE21AA"
+    },
+    {
+        "economico": "2025E50017",
+        "ID_vehiculos": "9C2FB4B0-2574-4671-ACC9-46EF7BCB1C5B"
+    },
+    {
+        "economico": "2025H50005",
+        "ID_vehiculos": "9E27DDDB-0014-4F24-9381-BB49F039B41D"
+    },
+    {
+        "economico": "2025MH0002",
+        "ID_vehiculos": "A0A1A8D9-6980-4477-B0D8-4D2AC65DBD4E"
+    },
+    {
+        "economico": "2024MH0001",
+        "ID_vehiculos": "A0F8F391-10F1-4329-BB0C-EDD999571585"
+    },
+    {
+        "economico": "2025TR0091",
+        "ID_vehiculos": "A1976B82-63D2-4366-B4DF-3425A16C9D4A"
+    },
+    {
+        "economico": "2024K30020",
+        "ID_vehiculos": "AB4449F6-9D8E-49ED-9956-ACE15A591ACC"
+    },
+    {
+        "economico": "2025TR0064",
+        "ID_vehiculos": "AC6363C8-6F2F-408F-BB25-8526C1808777"
+    },
+    {
+        "economico": "2025M20001",
+        "ID_vehiculos": "AFE31C4D-C5F5-4DBE-9295-D1B25997F91B"
+    },
+    {
+        "economico": "2025H50009",
+        "ID_vehiculos": "B0B6FBC7-921E-4C81-9DAF-74EE3868128A"
+    },
+    {
+        "economico": "2025RS0004",
+        "ID_vehiculos": "B3AAA3FD-0AAE-4418-851B-B8D09DD3C394"
+    },
+    {
+        "economico": "2025B10008",
+        "ID_vehiculos": "B543DE0D-9466-43BD-A9B3-12D6EE06B174"
+    },
+    {
+        "economico": "2025TR0087",
+        "ID_vehiculos": "B89488D7-D51F-40E0-9E9C-51ADBEDEBD2A"
+    },
+    {
+        "economico": "2025P10004",
+        "ID_vehiculos": "BAFD37D8-D60A-4E08-BE24-692D3CD512F8"
+    },
+    {
+        "economico": "2024BR0003",
+        "ID_vehiculos": "BC568748-D4D0-4835-AFFD-E5DC92594298"
+    },
+    {
+        "economico": "2024V10002",
+        "ID_vehiculos": "BE8DBEF4-10A0-44A2-AAA8-35F390B8B47D"
+    },
+    {
+        "economico": "2024CV0015",
+        "ID_vehiculos": "BFA87EAE-7B62-4471-806D-CD5E12A7070B"
+    },
+    {
+        "economico": "2025M40007",
+        "ID_vehiculos": "C1682131-4759-4CD5-BF7B-873629291E4E"
+    },
+    {
+        "economico": "2025F10002",
+        "ID_vehiculos": "C52DB69E-DB4A-4126-B527-9E2CE9346590"
+    },
+    {
+        "economico": "2025P10007",
+        "ID_vehiculos": "CA142ECE-1541-4536-B71D-4FC2175AD4A8"
+    },
+    {
+        "economico": "2025TR0093",
+        "ID_vehiculos": "CC3C4D3F-8053-4D1D-99F8-D219AF4B7169"
+    },
+    {
+        "economico": "2025TR0094",
+        "ID_vehiculos": "CE57DDE2-E12F-4D9D-800B-00FE2D7B9A9F"
+    },
+    {
+        "economico": "2025TR0081",
+        "ID_vehiculos": "CE654869-07F9-4FAD-97B7-610707837040"
+    },
+    {
+        "economico": "2025K80001",
+        "ID_vehiculos": "D01B7D73-3D95-48F6-9E16-1F760806F9DA"
+    },
+    {
+        "economico": "2025P20005",
+        "ID_vehiculos": "D3ECE954-C1B8-42A0-BD6F-EA75EE875666"
+    },
+    {
+        "economico": "2025RS0010",
+        "ID_vehiculos": "D593F05C-C33A-4EAC-A54C-53D2F2FD551F"
+    },
+    {
+        "economico": "2025TR0074",
+        "ID_vehiculos": "DA4EC33C-07E9-4E90-80AA-2D87A77A6536"
+    },
+    {
+        "economico": "2025H50018",
+        "ID_vehiculos": "DA992002-C7A4-4AEE-A2A6-736EB5E1CB77"
+    },
+    {
+        "economico": "2025M40006",
+        "ID_vehiculos": "DD18C62F-59E6-4B54-98F0-E160F0912D9B"
+    },
+    {
+        "economico": "2025TR0080",
+        "ID_vehiculos": "DDBD3509-0413-4FA4-AA4D-314AD7C0576B"
+    },
+    {
+        "economico": "2024CV0018",
+        "ID_vehiculos": "E16F723C-5FED-4093-81CC-0BF6870E1E35"
+    },
+    {
+        "economico": "2024B10015",
+        "ID_vehiculos": "E5B8D25D-F593-4FBC-84BA-EA422304D882"
+    },
+    {
+        "economico": "2025TR0050",
+        "ID_vehiculos": "E5B941F8-23FC-4585-A9F5-CAF481B15726"
+    },
+    {
+        "economico": "2025TR0089",
+        "ID_vehiculos": "E7773BBE-26DC-4B51-9068-DE121859EF33"
+    },
+    {
+        "economico": "2025H50019",
+        "ID_vehiculos": "E97A4F32-B8E9-4B65-AF48-9104E7801409"
+    },
+    {
+        "economico": "2025H50010",
+        "ID_vehiculos": "EA7712DD-DF8B-48D0-9C52-E191F532FF41"
+    },
+    {
+        "economico": "2025TR0096",
+        "ID_vehiculos": "EBBE9053-C9B6-4166-8A52-7F02B9AFF201"
+    },
+    {
+        "economico": "2025M80002",
+        "ID_vehiculos": "ED5FF0DF-7C39-48B8-B2E0-3980469BAF9C"
+    },
+    {
+        "economico": "2025H50007",
+        "ID_vehiculos": "EDF9CEE2-8BFD-4680-B8FE-B0FA726AE0EB"
+    },
+    {
+        "economico": "2025TR0077",
+        "ID_vehiculos": "EE0A479C-5496-4700-99C6-387125F92414"
+    },
+    {
+        "economico": "2025TR0095",
+        "ID_vehiculos": "F00A2B4E-CE53-4684-899A-D2C48DAC0ADC"
+    },
+    {
+        "economico": "2024BR0005",
+        "ID_vehiculos": "F1CECD03-1BF1-4D2E-94D5-D8C9BB5D2CA4"
+    },
+    {
+        "economico": "2025H50025",
+        "ID_vehiculos": "F20CF380-04B1-477E-A2B0-E076D72EBF7A"
+    },
+    {
+        "economico": "2025TR0075",
+        "ID_vehiculos": "F5045DA5-4485-48F9-8139-6B7936AE9A5F"
+    },
+    {
+        "economico": "2025H50012",
+        "ID_vehiculos": "FA3E10FD-9D78-4E61-A62B-ECD5E46D0189"
+    },
+    {
+        "economico": "2025H50026",
+        "ID_vehiculos": "FA458283-9358-49F4-A7F9-2F041B380348"
+    },
+    {
+        "economico": "2024CV0017",
+        "ID_vehiculos": "FAC9E14D-B210-469E-AD37-479174DB777D"
+    },
+    {
+        "economico": "2025MP0002",
+        "ID_vehiculos": "FB3AF888-B419-42F2-9315-0C06F78C71BB"
+    },
+    {
+        "economico": "2024K20002",
+        "ID_vehiculos": "FBF1985F-CC96-4EB8-AAFF-F4DF5FE6AC8C"
+    },
+    {
+        "economico": "2025RS0001",
+        "ID_vehiculos": "FC0DBA41-6B96-4C68-8C9E-A867A4389CD1"
+    },
+    {
+        "economico": "2025TR0078",
+        "ID_vehiculos": "FD726B36-615B-4DFB-82C9-78668D214DED"
+    },
+    {
+        "economico": "2025H50006",
+        "ID_vehiculos": "FDFE58EE-C7C4-4D78-89BC-A10A7017A2BE"
+    }
+]

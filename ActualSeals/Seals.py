@@ -13,7 +13,7 @@ url = "http://mylsa.com.mx/pilot/DesktopRemote/Seals.php"
 #url="http://localhost:8888/DesktopRemote/Seals.php"
 
 response = requests.get(url)
-path= os.getcwd()
+path= os.path.abspath(__file__)
 
 DeletSale(path)
 

@@ -1,0 +1,12 @@
+Id => 9642B058-7F13-4A00-B289-803491C773FC
+Vendedor => AP
+Cantidad => 675000
+ReferenciaPilot => 20250414124832
+NombreCliente => DANIEL-QUINTANA-MORA
+RFC => QUMD8811259K1
+Celular => 5591920596
+Telefono => 5591920596
+Mail => DANIELMORA@HOTMAIL.COM
+Direccion => AV 561 144 07969 CIUDAD DE MEXICO Mexico México
+CFDI => 612
+Tipo => Persona Fisica con actividad empresarial

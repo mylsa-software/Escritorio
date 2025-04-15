@@ -1,0 +1,12 @@
+Id => 46AB92BD-4C1C-405C-AF71-0623EAAE41B6
+Vendedor => AM
+Cantidad => 0
+ReferenciaPilot => 0
+NombreCliente => GRUAS-ELITE-SA-DE-CV
+RFC => GRUAS ELITE SA DE CV
+Celular => 5528997415
+Telefono => 5581001560
+Mail => gruaselite@hotmail.com
+Direccion => Gitana 18 13219 CIUDAD DE MEXICO México México
+CFDI => 601
+Tipo => Persona Moral
