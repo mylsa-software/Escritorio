@@ -5,13 +5,16 @@ import json
 
 Json = {}
 
-for file in os.listdir('.'):
+path=os.path.dirname(os.path.abspath(__file__))
+
+print(path)
+for file in os.listdir(path):
     if file.endswith('.pdf'):
         print(file)
 
         data=[]
 
-        with pdfplumber.open(file) as filepdf:
+        with pdfplumber.open(os.path.join(path,file)) as filepdf:
             for i, pages in enumerate(filepdf.pages):
                 tables = pages.extract_tables()
                 for table in tables:
@@ -41,7 +44,7 @@ for file in os.listdir('.'):
         
         Json[os.path.splitext(file)[0]]=info
 
-with open("Cat.json","w",encoding='utf-8') as data:
+with open(os.path.join(path,"Cat.json"),"w",encoding='utf-8') as data:
     json.dump(Json,data,indent=4,ensure_ascii=False)
 
 
