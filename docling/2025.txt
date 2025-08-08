@@ -1,0 +1,89 @@
+CAT CLAVE VEHICULAR                                              DESCRIPCION PRECIO LISTA PRECIO CLIENTE
+MPJ         0021226   MUSTANG ECOBOOST PREMIUM COUPE, 2.3L, AUTOMATICO, PIEL      915,900        915,900
+MPG         0021219           MUSTANG GT PREMIUM COUPE V8 5.0L, MANUAL, PIEL    1,299,900      1,299,900
+MPF         0021220       MUSTANG GT PREMIUM COUPE V8 5.0L, AUTOMATICO, PIEL    1,299,900      1,299,900
+MGB         0021231     MUSTANG GT PREMIUM CONVERTIBLE V8 5.0L, MANUAL, PIEL    1,399,900      1,399,900
+MGE         0021221 MUSTANG GT PREMIUM CONVERTIBLE V8 5.0L, AUTOMATICO, PIEL    1,399,900      1,399,900
+MDH         0021239           MUSTANG DARK HORSE COUPE V8 5.0L, MANUAL, PIEL    1,599,900      1,599,900
+MDA         0021240       MUSTANG DARK HORSE COUPE V8 5.0L, AUTOMATICO, PIEL    1,599,900      1,599,900
+MHS         9020104                                            MACH-E SELECT      989,000        989,000
+MHP         9020103                                           MACH-E PREMIUM    1,199,000      1,199,000
+MHE         9020102                                                MACH-E GT    1,349,000      1,349,000
+TBD         9020102                                             MACH-E RALLY    1,399,000      1,399,000
+THE                                                       Llantas 20" Summer       38,000         38,000
+CAT CLAVE VEHICULAR                       DESCRIPCION PRECIO LISTA PRECIO CLIENTE FORD CREDIT  CONTADO
+TR3         0026403       TERRITORY AMBIENTE FWD 1.8L      599,000        599,000       80,000  80,000
+TR2         0026402          TERRITORY TREND FWD 1.8L      708,500        708,500      150,000 100,000
+TR1         0026401 TERRRITORY TITANIUM PLUS FWD 1.8L      773,500        773,500      150,000 100,000
+H5D         6020408                ESCAPE ACTIVE 2.5L      801,100        801,100      150,000 150,000
+H5F         6020406        ESCAPE ST-LINE SELECT 2.5L      881,100        881,100      150,000 150,000
+H5H         6020409              ESCAPE PLATINUM 2.5L      921,100        921,100      150,000 150,000
+IG1         0020849                   EXPLORER POLICE      922,100        922,100                     
+E2A         0020848                   EXPLORER ACTIVE    1,184,100      1,184,100      105,000 105,000
+E4A         0020847                 EXPLORER PLATINUM    1,329,100      1,329,100      105,000 105,000
+E5S         0020845                       EXPLORER ST    1,469,100      1,469,100      105,000 105,000
+V1Z         0022127                 EXPEDITION ACTIVE    1,739,900      1,739,900                     
+V2Z         0022128             EXPEDITION ACTIVE MAX    1,829,900      1,829,900                     
+V5A         0022123               EXPEDITION PLATINUM    1,959,900      1,959,900                     
+V6A         0022122           EXPEDITION PLATINUM MAX    1,999,900      1,999,900                     
+CAT CLAVE VEHICULAR                                                                    DESCRIPCION PRECIO LISTA PRECIO CLIENTE FORD CREDIT  CONTADO
+B1C         0026106                                            BRONCO SPORT BIG BEND 1.5L ECOBOOST      762,100        762,100       70,000  70,000
+B1B         0026107                                         BRONCO SPORT OUTER BANKS 1.5L ECOBOOST      861,100        861,100       70,000  70,000
+B1A         0026108                                                  BRONCO BADLANDS 2.0L ECOBOOST      897,100        897,100       70,000  70,000
+BR1         0026202                                         BRONCO OUTER BANKS 4 PUERTAS 2.3L GTDI    1,369,900      1,369,900      100,000 100,000
+BR6         0026304                                            BRONCO BADLANDS 2 PUERTAS 2.7L GTDI    1,509,900      1,509,900      100,000 100,000
+TFR                 LT285/70R17 MUD-TERRAIN (M/T) TIRES (33')- NO DISPONIBLE CON PAQUETE SASQUATCH       14,000         14,000                     
+BR7         0026209                                            BRONCO BADLANDS 4 PUERTAS 2.7L GTDI    1,569,900      1,569,900      100,000 100,000
+TFR                 LT285/70R17 MUD-TERRAIN (M/T) TIRES (33')- NO DISPONIBLE CON PAQUETE SASQUATCH       14,000         14,000                     
+BR8         0026211                                                    BRONCO EVERGLADES 2.3L GTDI    1,754,000      1,754,000                     
+BR9         0026210                                                        BRONCO RAPTOR 3.0L GTDI    2,099,900      2,099,900      100,000 100,000
+CAT CLAVE VEHICULAR                                                            DESCRIPCION PRECIO LISTA PRECIO CLIENTE
+M3J         1021706          TRANSIT CHASIS CAB 350M, 2.0 L DIESEL I4 (MT, TELA 2 PUERTAS)      822,100        822,100
+M3K         2022002         TRANSIT CHASIS CAB 500L, 2.0 L DIESEL I4 (MT, TELA, 2 PUERTAS)      882,100        882,100
+CV1         1021309          TRANSIT VAN CORTA TECHO BAJO DIESEL 2.0L, 134HP, MANUAL 6 VEL      850,000        850,000
+CV2         1021310          TRANSIT VAN LARGA TECHO BAJO DIESEL 2.0L, 134HP, MANUAL 6 VEL      875,000        875,000
+CP2         0024509 TRANSIT BUS 8 PASAJEROS TECHO BAJO DIESEL 2.0L, 134HP, AUTOMATICA 8VEL    1,065,000      1,065,000
+M8C         1021307                                      TRANSIT NA VAN 410 L, MEDIUM ROOF    1,017,300      1,017,300
+M6B         0024506                               TRANSIT NA BUS 410 L MEDIUM ROOF 15 PASS    1,288,500      1,288,500
+M2A         2022102                                           TRANSIT VAN EXTRA LARGA ELWB    1,032,100      1,032,100
+M4A         0024507                                     TRANSIT BUS 15 PASAJEROS LARGA LWB    1,052,100      1,052,100
+M4B         2022202                              TRANSIT BUS 18 PASAJEROS EXTRA LARGA ELWB    1,187,100      1,187,100
+CAT CLAVE VEHICULAR                                                       DESCRIPCION PRECIO LISTA PRECIO CLIENTE FORD CREDIT  CONTADO
+P1X         1022004       MAVERICK XLT SUPERCREW AWD, 2.0L ECOBOOST, AUTOMATICA, TELA      737,100        737,100       70,000  70,000
+P2X         6020703               MAVERICK XLT SUPERCREW FWD, 2.5L HIBRIDA, CVT, TELA      752,100        752,100       70,000  70,000
+P1L         1022001 MAVERICK LARIAT SUPERCREW AWD, 2.0L ECOBOOST, AUTOMATICA, ACTIVEX      842,100        842,100       70,000  70,000
+P1H         6020702         MAVERICK LARIAT SUPERCREW AWD, 2.5L HIBRIDA, CVT, ACTIVEX      877,100        877,100       70,000  70,000
+RS1         1020923             RANGER XL CREW CAB 4X2, GASOLINA 2.3L,AT 10 VEL, TELA      750,900        750,900                     
+RS2         1020922            RANGER XLT CREW CAB 4X2, GASOLINA 2.3L,AT 10 VEL, TELA      880,900        880,900                     
+RS3         1020921               RANGER XLT CREW CAB 4X4, DIESEL 2.0L,AT 6 VEL, TELA      880,900        880,900                     
+RS4         1020918       RANGER WILDTRAK CREW CAB 4X4, GASOLINA 2.3L,AT 10 VEL, PIEL      960,900        960,900      100,000 100,000
+RT1         1020920               RANGER RAPTOR CC, 3.0L V6 GASOLINA, AT 10 VEL, PIEL    1,299,900      1,299,900                     
+L1A         1021051                                          LOBO LARIAT CREW CAB 4X4    1,428,100      1,428,100                     
+L1K         1021053                                                   LOBO KING RANCH    1,499,000      1,499,000                     
+L1B         1021052                                          LOBO TREMOR CREW CAB 4X4    1,417,100      1,417,100                     
+L1C         1021052                                     LOBO TREMOR HIGH CREW CAB 4X4    1,572,100      1,572,100       73,100  73,100
+L1D         1021050                                        LOBO PLATINUM CREW CAB 4X4    1,615,100      1,615,100      116,100 116,100
+L1E         6020602                               LOBO PLATINUM PLUS CREW CAB 4X4 HEV    1,789,100      1,789,100       60,000        
+L1F         1021049                                     LOBO RAPTOR CREW CAB 4X4 HIGH    2,424,100      2,424,100                     
+L1G         1021048                                        LOBO RAPTOR R CREW CAB 4X4    2,951,100      2,951,100                     
+CAT CLAVE VEHICULAR                                                          DESCRIPCION PRECIO LISTA PRECIO CLIENTE FORD CREDIT  CONTADO
+F1A         1021611                                                F-150 REGULAR CAB 4X2    1,008,100      1,008,100       50,000  50,000
+F1B         1021518                                                F-150 SUPERCAB 4X2 V6    1,042,100      1,042,100       50,000  50,000
+F1C         1021517                                                F-150 CREW CAB 4X2 V6    1,050,100      1,050,100       50,000  50,000
+F1D         1021516                                                F-150 CREW CAB 4X4 V6    1,092,100      1,092,100       50,000  50,000
+F1E         1021519                                                F-150 CREW CAB 4X4 V8    1,177,100      1,177,100       50,000  50,000
+F1F         1021515                                           F-150 SUPER SINGLE CAB 4X4    1,232,100      1,232,100                     
+F1G         1021514                                               F-150 XLT CREW CAB 4X2    1,276,100      1,276,100       50,000  50,000
+F1H         1021513                                               F-150 XLT CREW CAB 4X4    1,332,100      1,332,100                     
+K2A         1021104            F-250 SUPERDUTY XLT DOBLE CABINA 4X4, SRW, DIESEL 6.7L V8    1,522,100      1,522,100                     
+K2B         1021105    F-250 SUPERDUTY KING RANCH, DOBLE CABINA 4X4, SRW, DIESEL 6.7L V8    1,922,100      1,922,100                     
+K2C         1021107 F-250 SUPERDUTY PLATINUM PLUS, DOBLE CABINA 4X4, SRW, DIESEL 6.7L V8    2,427,100      2,427,100                     
+K3A         2021710                F-350 XL CABINA REGULAR, 4X2 DRW, GASOLINA 7.3L 4V V8    1,067,100      1,067,100                     
+K3B         2021711           F-350 XL PLUS CABINA REGULAR, 4X2 DRW, GASOLINA 7.3L 4V V8    1,087,100      1,087,100                     
+K3C         1022201                  F-350 XL DOBLE CABINA, 4X2 DRW, GASOLINA 7.3L 4V V8    1,117,100      1,117,100                     
+K3D         1022202                  F-350 XL DOBLE CABINA, 4X4 DRW, GASOLINA 7.3L 4V V8    1,157,100      1,157,100                     
+K4B         2021808                        F-450 XL CABINA REGULAR 4X2, DRWGASOLINA 7.3L    1,187,100      1,187,100                     
+K4A         2021807                          F-450 XL CABINA REGULAR 4X2, DRWDIESEL 6.7L    1,317,100      1,317,100                     
+K8C         2021908                        F-550 XL CABINA REGULAR 4X2, DRWGASOLINA 7.3L    1,302,100      1,302,100                     
+K8A         2021907                      F-550 XL, CABINA REGULAR, 4X2 DRW, DIESEL, 6.7L    1,427,100      1,427,100                     
+K8D         2021909                      F-550 XL, CABINA REGULAR, 4X4 DRW, DIESEL, 6.7L    1,477,100      1,477,100                     

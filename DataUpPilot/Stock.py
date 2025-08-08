@@ -21,7 +21,7 @@ if response.status_code == 200:
     with open(os.path.join(path,"StockPilot.txt"),"w") as file:
         for infodata in data:
             for key,info in infodata.items():
-                file.write(info +"\t")
+                file.write(str(info) + "\t")
             
             file.write("\n")
 

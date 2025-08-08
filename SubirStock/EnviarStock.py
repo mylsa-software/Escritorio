@@ -33,7 +33,7 @@ file2 = os.path.abspath(os.path.join(path, "../PDF/Cat.json"))
 
 file = os.path.abspath(os.path.join(path, "../PDF/Cat.json"))
 filestock = os.path.abspath(os.path.join(path, "../DataUpPilot/StockPilot.json"))
-txt = os.path.join(path,'Vehiculo.txt')
+txt = os.path.join(path,'stock.txt')
 
 with open(file,'r',encoding='utf-8') as file :
     Cat = json.load(file)
@@ -55,12 +55,13 @@ with open(os.path.join(path,"Response.txt"),"w",encoding="utf-8") as file:
         keys= Cat.keys()
 
         for index , row in enumerate(array):
-
+            print(row)
             if index !=0:
                 if row[5].split('-')[0] in keys:
                     for fo in Cat[row[5].split('-')[0]]:
                         if row[5].split('-')[1] in fo["Cat"] :
                             row.append(fo["Precio"])
+                        
                 
                 if row[6] == 'DISPONIBLE':
                     row[6]='Disponible'

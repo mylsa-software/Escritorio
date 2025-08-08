@@ -1,0 +1,74 @@
+[
+    {
+        "economico": "2025TR0094",
+        "Cantidad": 0,
+        "Venta": "06380CBF-38FF-46A0-AF4B-ECF7A123F1F2",
+        "Pilot": "20250416142401",
+        "Nombre": "ADRIANA PATRICIA-GUTIERREZ-HERN\u00c1NDEZ-",
+        "Correo": "armando.delgadillo@fordmylsa.mx",
+        "IdPilot": "06380CBF-38FF-46A0-AF4B-ECF7A123F1F2"
+    },
+    {
+        "economico": null,
+        "Cantidad": 861100,
+        "Venta": "690AD0B7-5976-4ABC-876E-5690A2429482",
+        "Pilot": "20250531142338",
+        "Nombre": "Jose Augusto Ya\u00f1ez Rojas",
+        "Correo": "ramses.alatorre@fordmylsa.mx",
+        "IdPilot": "690AD0B7-5976-4ABC-876E-5690A2429482"
+    },
+    {
+        "economico": null,
+        "Cantidad": 199990000,
+        "Venta": "8371912B-16E8-4AD8-B598-6BCB3DD3761C",
+        "Pilot": "20250531163711",
+        "Nombre": "FRANCISCO-CHIMAL-RIOS",
+        "Correo": "jesus.valencia@fordmylsa.mx",
+        "IdPilot": "8371912B-16E8-4AD8-B598-6BCB3DD3761C"
+    },
+    {
+        "economico": "2025TR0109",
+        "Cantidad": 773500,
+        "Venta": "F17DB9C2-5B9E-4BEB-8A7E-6E49FFC817B6",
+        "Pilot": "20250630192221",
+        "Nombre": "Amelia Urrutia Cantero",
+        "Correo": "salvador.ramos@fordmylsa.mx",
+        "IdPilot": "F17DB9C2-5B9E-4BEB-8A7E-6E49FFC817B6"
+    },
+    {
+        "economico": "2024E50003",
+        "Cantidad": 1095000,
+        "Venta": "A122A33A-5B8C-4E57-BA90-55DC0AF31460",
+        "Pilot": "20250714110155",
+        "Nombre": "Jose  Villegas Arratia",
+        "Correo": "jacobo.olivares@fordmylsa.mx",
+        "IdPilot": "A122A33A-5B8C-4E57-BA90-55DC0AF31460"
+    },
+    {
+        "economico": "2025TR0100",
+        "Cantidad": 773100,
+        "Venta": "D13C5866-0CF2-4F11-BF02-9D25217681C6",
+        "Pilot": "20250722112712",
+        "Nombre": "Jos\u00e9 Alfredo-Pacheco-Gonzalez",
+        "Correo": "javier.vejar@fordmylsa.mx",
+        "IdPilot": "D13C5866-0CF2-4F11-BF02-9D25217681C6"
+    },
+    {
+        "economico": "2025RS0010",
+        "Cantidad": 960900,
+        "Venta": "A01685DE-5EA9-4002-8DBA-23590A15C419",
+        "Pilot": "20250722180427",
+        "Nombre": "Edgar Alejo-Ortiz-Romo",
+        "Correo": "isabel.garcia@fordmylsa.mx",
+        "IdPilot": "A01685DE-5EA9-4002-8DBA-23590A15C419"
+    },
+    {
+        "economico": "2025TR0048",
+        "Cantidad": 708000,
+        "Venta": "C9B514AB-DF90-46DC-A6DF-BBD95FCB79D1",
+        "Pilot": "20250723132821",
+        "Nombre": "RAISSA JESIKA-LUNA-MARTINEZ",
+        "Correo": "nancy.fuentes@fordmylsa.mx",
+        "IdPilot": "C9B514AB-DF90-46DC-A6DF-BBD95FCB79D1"
+    }
+]
